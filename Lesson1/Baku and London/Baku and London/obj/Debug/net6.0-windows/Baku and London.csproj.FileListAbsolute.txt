@@ -1,0 +1,18 @@
+C:\Users\nvale\source\repos\Baku and London\Baku and London\bin\Debug\net6.0-windows\Baku and London.exe
+C:\Users\nvale\source\repos\Baku and London\Baku and London\bin\Debug\net6.0-windows\Baku and London.deps.json
+C:\Users\nvale\source\repos\Baku and London\Baku and London\bin\Debug\net6.0-windows\Baku and London.runtimeconfig.json
+C:\Users\nvale\source\repos\Baku and London\Baku and London\bin\Debug\net6.0-windows\Baku and London.dll
+C:\Users\nvale\source\repos\Baku and London\Baku and London\bin\Debug\net6.0-windows\Baku and London.pdb
+C:\Users\nvale\source\repos\Baku and London\Baku and London\obj\Debug\net6.0-windows\Baku and London.csproj.AssemblyReference.cache
+C:\Users\nvale\source\repos\Baku and London\Baku and London\obj\Debug\net6.0-windows\Baku_and_London.Form1.resources
+C:\Users\nvale\source\repos\Baku and London\Baku and London\obj\Debug\net6.0-windows\Baku and London.csproj.GenerateResource.cache
+C:\Users\nvale\source\repos\Baku and London\Baku and London\obj\Debug\net6.0-windows\Baku and London.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nvale\source\repos\Baku and London\Baku and London\obj\Debug\net6.0-windows\Baku and London.AssemblyInfoInputs.cache
+C:\Users\nvale\source\repos\Baku and London\Baku and London\obj\Debug\net6.0-windows\Baku and London.AssemblyInfo.cs
+C:\Users\nvale\source\repos\Baku and London\Baku and London\obj\Debug\net6.0-windows\Baku and London.csproj.CoreCompileInputs.cache
+C:\Users\nvale\source\repos\Baku and London\Baku and London\obj\Debug\net6.0-windows\Baku and London.dll
+C:\Users\nvale\source\repos\Baku and London\Baku and London\obj\Debug\net6.0-windows\refint\Baku and London.dll
+C:\Users\nvale\source\repos\Baku and London\Baku and London\obj\Debug\net6.0-windows\Baku and London.pdb
+C:\Users\nvale\source\repos\Baku and London\Baku and London\obj\Debug\net6.0-windows\Baku and London.genruntimeconfig.cache
+C:\Users\nvale\source\repos\Baku and London\Baku and London\obj\Debug\net6.0-windows\ref\Baku and London.dll
+C:\Users\nvale\source\repos\Baku and London\Baku and London\obj\Debug\net6.0-windows\Baku_and_London.Properties.Resources.resources
