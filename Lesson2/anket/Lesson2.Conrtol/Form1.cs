@@ -22,36 +22,7 @@ namespace Lesson2.Conrtol
 
         }
 
-        private void button1_Click(object sender, EventArgs e)
-        {
-            Dictionary<string, string> dc = new Dictionary<string, string>();
-            string surname = textBox1.Text;
-            string name = textBox2.Text;
-            string father_name = textBox3.Text;
-            string country = textBox4.Text;
-            string city = textBox4.Text;
-            string phone = textBox5.Text;
-            string dt = dateTimePicker1.Value.ToString();
-            string gender;
-            if (radioButton1.Checked)
-                gender = radioButton1.Text;
-            else
-                gender = radioButton2.Text;
-            dc.Add("surname", surname);
-            dc.Add("name", name);
-            dc.Add("father_name", father_name);
-            dc.Add("country", country);
-            dc.Add("city", city);
-            dc.Add("phone", phone);
-            dc.Add("date of birthday", dt);
-            dc.Add("gender", gender);
-            var options = new JsonSerializerOptions { WriteIndented = true };
-            var json = JsonSerializer.Serialize(dc);
-            string file_name = $"{name}.json";
-            File.WriteAllText(file_name, json);
 
-
-        }
 
         private void TextRegex(System.Windows.Forms.TextBox textBox)
         {
@@ -127,8 +98,52 @@ namespace Lesson2.Conrtol
             ButtonEnable();
         }
 
+        private void button1_Click(object sender, EventArgs e)
+        {
+            string surname = textBox1.Text;
+            string name = textBox2.Text;
+            string father_name = textBox3.Text;
+            string country = textBox4.Text;
+            string city = textBox5.Text;
+            string phone = textBox6.Text;
+            DateTime dt = dateTimePicker1.Value;
+            string gender;
+            if (radioButton1.Checked)
+                gender = radioButton1.Text;
+            else
+                gender = radioButton2.Text;
+            User user = new(surname, name, father_name, country, city, phone, dt, gender);
+
+            var options = new JsonSerializerOptions { WriteIndented = true };
+            var json = JsonSerializer.Serialize(user);
+            string file_name = $"{textBox2.Text}.json";
+            File.WriteAllText(file_name, json);
+        }
         private void button2_Click(object sender, EventArgs e)
         {
+            try
+            {
+                var json = File.ReadAllText($"{textBox7.Text}.json");
+                var obj = JsonSerializer.Deserialize<User>(json);
+                textBox1.Text = obj?.Surname;
+                textBox2.Text = obj?.Name;
+                textBox3.Text = obj?.Father_name;
+                textBox4.Text = obj?.Country;
+                textBox5.Text = obj?.City;
+                textBox6.Text = obj?.Phone;
+                dateTimePicker1.Value = obj.Dt;
+                if (obj.Gender == "Male")
+                    radioButton1.Checked = true;
+                else
+                    radioButton2.Checked = true;
+                
+
+            }
+            catch (Exception ex)
+            {
+
+                MessageBox.Show(ex.Message);
+            }
             //button2.Enabled = textBox1.Text.Length>0;
         }
 

@@ -194,9 +194,9 @@
             this.label6.AutoSize = true;
             this.label6.Location = new System.Drawing.Point(22, 217);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(50, 20);
+            this.label6.Size = new System.Drawing.Size(108, 20);
             this.label6.TabIndex = 5;
-            this.label6.Text = "Phone";
+            this.label6.Text = "Phone Number";
             // 
             // label5
             // 

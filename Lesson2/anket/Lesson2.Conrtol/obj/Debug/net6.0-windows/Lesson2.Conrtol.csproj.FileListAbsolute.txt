@@ -15,3 +15,20 @@ C:\Users\nvale\source\repos\Lesson2.Conrtol\Lesson2.Conrtol\obj\Debug\net6.0-win
 C:\Users\nvale\source\repos\Lesson2.Conrtol\Lesson2.Conrtol\obj\Debug\net6.0-windows\Lesson2.Conrtol.pdb
 C:\Users\nvale\source\repos\Lesson2.Conrtol\Lesson2.Conrtol\obj\Debug\net6.0-windows\Lesson2.Conrtol.genruntimeconfig.cache
 C:\Users\nvale\source\repos\Lesson2.Conrtol\Lesson2.Conrtol\obj\Debug\net6.0-windows\ref\Lesson2.Conrtol.dll
+C:\Users\nvale\Downloads\OneDrive\İş masası\Step\Git WinForm\Lesson2\anket\Lesson2.Conrtol\bin\Debug\net6.0-windows\Lesson2.Conrtol.exe
+C:\Users\nvale\Downloads\OneDrive\İş masası\Step\Git WinForm\Lesson2\anket\Lesson2.Conrtol\bin\Debug\net6.0-windows\Lesson2.Conrtol.deps.json
+C:\Users\nvale\Downloads\OneDrive\İş masası\Step\Git WinForm\Lesson2\anket\Lesson2.Conrtol\bin\Debug\net6.0-windows\Lesson2.Conrtol.runtimeconfig.json
+C:\Users\nvale\Downloads\OneDrive\İş masası\Step\Git WinForm\Lesson2\anket\Lesson2.Conrtol\bin\Debug\net6.0-windows\Lesson2.Conrtol.dll
+C:\Users\nvale\Downloads\OneDrive\İş masası\Step\Git WinForm\Lesson2\anket\Lesson2.Conrtol\bin\Debug\net6.0-windows\Lesson2.Conrtol.pdb
+C:\Users\nvale\Downloads\OneDrive\İş masası\Step\Git WinForm\Lesson2\anket\Lesson2.Conrtol\obj\Debug\net6.0-windows\Lesson2.Conrtol.csproj.AssemblyReference.cache
+C:\Users\nvale\Downloads\OneDrive\İş masası\Step\Git WinForm\Lesson2\anket\Lesson2.Conrtol\obj\Debug\net6.0-windows\Lesson2.Conrtol.Form1.resources
+C:\Users\nvale\Downloads\OneDrive\İş masası\Step\Git WinForm\Lesson2\anket\Lesson2.Conrtol\obj\Debug\net6.0-windows\Lesson2.Conrtol.csproj.GenerateResource.cache
+C:\Users\nvale\Downloads\OneDrive\İş masası\Step\Git WinForm\Lesson2\anket\Lesson2.Conrtol\obj\Debug\net6.0-windows\Lesson2.Conrtol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nvale\Downloads\OneDrive\İş masası\Step\Git WinForm\Lesson2\anket\Lesson2.Conrtol\obj\Debug\net6.0-windows\Lesson2.Conrtol.AssemblyInfoInputs.cache
+C:\Users\nvale\Downloads\OneDrive\İş masası\Step\Git WinForm\Lesson2\anket\Lesson2.Conrtol\obj\Debug\net6.0-windows\Lesson2.Conrtol.AssemblyInfo.cs
+C:\Users\nvale\Downloads\OneDrive\İş masası\Step\Git WinForm\Lesson2\anket\Lesson2.Conrtol\obj\Debug\net6.0-windows\Lesson2.Conrtol.csproj.CoreCompileInputs.cache
+C:\Users\nvale\Downloads\OneDrive\İş masası\Step\Git WinForm\Lesson2\anket\Lesson2.Conrtol\obj\Debug\net6.0-windows\Lesson2.Conrtol.dll
+C:\Users\nvale\Downloads\OneDrive\İş masası\Step\Git WinForm\Lesson2\anket\Lesson2.Conrtol\obj\Debug\net6.0-windows\refint\Lesson2.Conrtol.dll
+C:\Users\nvale\Downloads\OneDrive\İş masası\Step\Git WinForm\Lesson2\anket\Lesson2.Conrtol\obj\Debug\net6.0-windows\Lesson2.Conrtol.pdb
+C:\Users\nvale\Downloads\OneDrive\İş masası\Step\Git WinForm\Lesson2\anket\Lesson2.Conrtol\obj\Debug\net6.0-windows\Lesson2.Conrtol.genruntimeconfig.cache
+C:\Users\nvale\Downloads\OneDrive\İş masası\Step\Git WinForm\Lesson2\anket\Lesson2.Conrtol\obj\Debug\net6.0-windows\ref\Lesson2.Conrtol.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nvale\\source\\repos\\Lesson2.Conrtol\\Lesson2.Conrtol\\Lesson2.Conrtol.csproj": {}
+    "C:\\Users\\nvale\\Downloads\\OneDrive\\İş masası\\Step\\Git WinForm\\Lesson2\\anket\\Lesson2.Conrtol\\Lesson2.Conrtol.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nvale\\source\\repos\\Lesson2.Conrtol\\Lesson2.Conrtol\\Lesson2.Conrtol.csproj": {
+    "C:\\Users\\nvale\\Downloads\\OneDrive\\İş masası\\Step\\Git WinForm\\Lesson2\\anket\\Lesson2.Conrtol\\Lesson2.Conrtol.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nvale\\source\\repos\\Lesson2.Conrtol\\Lesson2.Conrtol\\Lesson2.Conrtol.csproj",
+        "projectUniqueName": "C:\\Users\\nvale\\Downloads\\OneDrive\\İş masası\\Step\\Git WinForm\\Lesson2\\anket\\Lesson2.Conrtol\\Lesson2.Conrtol.csproj",
         "projectName": "Lesson2.Conrtol",
-        "projectPath": "C:\\Users\\nvale\\source\\repos\\Lesson2.Conrtol\\Lesson2.Conrtol\\Lesson2.Conrtol.csproj",
+        "projectPath": "C:\\Users\\nvale\\Downloads\\OneDrive\\İş masası\\Step\\Git WinForm\\Lesson2\\anket\\Lesson2.Conrtol\\Lesson2.Conrtol.csproj",
         "packagesPath": "C:\\Users\\nvale\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nvale\\source\\repos\\Lesson2.Conrtol\\Lesson2.Conrtol\\obj\\",
+        "outputPath": "C:\\Users\\nvale\\Downloads\\OneDrive\\İş masası\\Step\\Git WinForm\\Lesson2\\anket\\Lesson2.Conrtol\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nvale\\AppData\\Roaming\\NuGet\\NuGet.Config",
