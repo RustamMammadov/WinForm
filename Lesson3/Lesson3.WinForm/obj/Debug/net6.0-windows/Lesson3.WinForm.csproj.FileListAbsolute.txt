@@ -1,0 +1,17 @@
+C:\Users\nvale\source\repos\Lesson3.WinForm\Lesson3.WinForm\bin\Debug\net6.0-windows\Lesson3.WinForm.exe
+C:\Users\nvale\source\repos\Lesson3.WinForm\Lesson3.WinForm\bin\Debug\net6.0-windows\Lesson3.WinForm.deps.json
+C:\Users\nvale\source\repos\Lesson3.WinForm\Lesson3.WinForm\bin\Debug\net6.0-windows\Lesson3.WinForm.runtimeconfig.json
+C:\Users\nvale\source\repos\Lesson3.WinForm\Lesson3.WinForm\bin\Debug\net6.0-windows\Lesson3.WinForm.dll
+C:\Users\nvale\source\repos\Lesson3.WinForm\Lesson3.WinForm\bin\Debug\net6.0-windows\Lesson3.WinForm.pdb
+C:\Users\nvale\source\repos\Lesson3.WinForm\Lesson3.WinForm\obj\Debug\net6.0-windows\Lesson3.WinForm.csproj.AssemblyReference.cache
+C:\Users\nvale\source\repos\Lesson3.WinForm\Lesson3.WinForm\obj\Debug\net6.0-windows\Lesson3.WinForm.Form1.resources
+C:\Users\nvale\source\repos\Lesson3.WinForm\Lesson3.WinForm\obj\Debug\net6.0-windows\Lesson3.WinForm.csproj.GenerateResource.cache
+C:\Users\nvale\source\repos\Lesson3.WinForm\Lesson3.WinForm\obj\Debug\net6.0-windows\Lesson3.WinForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nvale\source\repos\Lesson3.WinForm\Lesson3.WinForm\obj\Debug\net6.0-windows\Lesson3.WinForm.AssemblyInfoInputs.cache
+C:\Users\nvale\source\repos\Lesson3.WinForm\Lesson3.WinForm\obj\Debug\net6.0-windows\Lesson3.WinForm.AssemblyInfo.cs
+C:\Users\nvale\source\repos\Lesson3.WinForm\Lesson3.WinForm\obj\Debug\net6.0-windows\Lesson3.WinForm.csproj.CoreCompileInputs.cache
+C:\Users\nvale\source\repos\Lesson3.WinForm\Lesson3.WinForm\obj\Debug\net6.0-windows\Lesson3.WinForm.dll
+C:\Users\nvale\source\repos\Lesson3.WinForm\Lesson3.WinForm\obj\Debug\net6.0-windows\refint\Lesson3.WinForm.dll
+C:\Users\nvale\source\repos\Lesson3.WinForm\Lesson3.WinForm\obj\Debug\net6.0-windows\Lesson3.WinForm.pdb
+C:\Users\nvale\source\repos\Lesson3.WinForm\Lesson3.WinForm\obj\Debug\net6.0-windows\Lesson3.WinForm.genruntimeconfig.cache
+C:\Users\nvale\source\repos\Lesson3.WinForm\Lesson3.WinForm\obj\Debug\net6.0-windows\ref\Lesson3.WinForm.dll
